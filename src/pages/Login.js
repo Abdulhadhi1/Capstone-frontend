@@ -91,6 +91,8 @@ const Login = () => {
             </div>
           </MDBValidation>
           <br />
+        <p>User : test123@gmail.com</p>
+        <p>Password : 12345</p>
         
         </MDBCardBody>
         <MDBCardFooter>
