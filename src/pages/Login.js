@@ -86,20 +86,20 @@ const Login = () => {
                     className="me-2"
                   />
                 )}
-                Login
+                Admin Login
               </MDBBtn>
             </div>
           </MDBValidation>
           <br />
-        <p>User : test123@gmail.com</p>
-        <p>Password : 12345</p>
+        {/* <p>User : test123@gmail.com</p>
+        <p>Password : 12345</p> */}
         
         </MDBCardBody>
-        <MDBCardFooter>
+        {/* <MDBCardFooter>
           <Link to="/register">
             <p>Don't have an account ? Sign Up</p>
           </Link>
-        </MDBCardFooter>
+        </MDBCardFooter> */}
       </MDBCard>
     </div>
   );
